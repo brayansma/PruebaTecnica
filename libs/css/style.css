@@ -1,0 +1,15 @@
+.is-invalid {
+    border-color: red !important;
+    color: red;
+}
+
+label.error {
+    color: red;
+    font-size: 0.8em;
+}
+
+
+    #btn_modificar i, #btn_borrar i {
+    cursor: pointer;
+    color: black;
+}
