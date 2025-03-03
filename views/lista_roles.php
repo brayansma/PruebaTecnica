@@ -34,7 +34,6 @@
     
 </div>
 
-
 <script>
 function borrarRoles(id_roles) {
     
